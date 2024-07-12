@@ -1,0 +1,60 @@
+﻿Username,Profile_Age,Followers,Following,Posts,Profile_Picture,Verified,Profile_Description,Inactive_Days,Spam_Reports,Label
+user1,365,1000,500,50,TRUE,FALSE,I love cats and hiking!,10,2,Original
+user2,150,500,200,20,TRUE,FALSE,Tech enthusiast and gamer,5,1,Fake
+user3,90,2000,1000,100,FALSE,TRUE,Official account for our brand,15,0,Original
+user4,30,100,50,5,TRUE,FALSE,Photographer and traveler,20,3,Fake
+user5,180,300,150,30,TRUE,FALSE,Fitness freak and foodie,8,0,Original
+user6,270,800,300,40,FALSE,FALSE,Movie buff and music lover,12,1,Original
+user7,210,1200,600,60,TRUE,FALSE,Nature lover and environmentalist,10,0,Original
+user8,120,600,400,35,TRUE,TRUE,Fashionista and beauty blogger,18,2,Fake
+user9,75,1500,100,80,TRUE,FALSE,Travel blogger and adventurer,6,0,Original
+user10,240,400,200,25,TRUE,FALSE,Bookworm and writer,14,1,Original
+user11,200,250,150,20,TRUE,FALSE,Gamer and streamer,7,0,Fake
+user12,300,600,300,50,TRUE,FALSE,Food blogger and chef,9,1,Original
+user13,180,1000,500,70,TRUE,TRUE,Fitness coach and personal trainer,11,0,Original
+user14,90,800,400,45,FALSE,FALSE,Art lover and aspiring artist,16,3,Fake
+user15,150,1200,800,90,TRUE,FALSE,Fashion designer and stylist,8,0,Original
+user16,210,300,200,25,TRUE,FALSE,Tech geek and coder,13,1,Fake
+user17,270,400,300,30,FALSE,TRUE,Health enthusiast and nutritionist,10,0,Original
+user18,120,600,400,50,TRUE,FALSE,Dog lover and pet owner,7,2,Original
+user19,180,800,500,60,TRUE,FALSE,Musician and songwriter,9,0,Fake
+user20,240,1000,600,70,TRUE,FALSE,Traveler and explorer,12,1,Original
+user21,90,500,300,30,TRUE,FALSE,Coffee addict and blogger,15,0,Original
+user22,150,200,100,20,TRUE,FALSE,Movie lover and film critic,10,1,Fake
+user23,210,300,150,25,TRUE,TRUE,Tech entrepreneur and startup founder,8,0,Original
+user24,270,600,300,40,FALSE,FALSE,Gamer and esports player,14,2,Fake
+user25,120,1000,800,50,TRUE,FALSE,Fitness enthusiast and gym rat,11,0,Original
+user26,180,1200,900,60,TRUE,FALSE,Fashion influencer and model,9,1,Original
+user27,240,500,400,30,TRUE,FALSE,Foodie and amateur chef,7,0,Fake
+user28,90,200,150,20,TRUE,FALSE,Photography enthusiast and hobbyist,16,1,Original
+user29,150,300,200,25,TRUE,TRUE,Tech blogger and reviewer,10,0,Original
+user30,210,400,300,30,TRUE,FALSE,Outdoor enthusiast and camper,8,2,Fake
+user31,270,600,500,40,TRUE,FALSE,Nature photographer and wildlife enthusiast,12,0,Original
+user32,120,800,700,50,TRUE,FALSE,Music lover and concert-goer,9,1,Original
+user33,180,1000,900,60,TRUE,FALSE,Fitness coach and personal trainer,7,0,Fake
+user34,240,1200,1100,70,TRUE,FALSE,Fashion designer and stylist,15,3,Original
+user35,90,200,150,20,TRUE,TRUE,Tech entrepreneur and startup founder,6,0,Original
+user36,150,400,300,30,TRUE,FALSE,Gamer and esports player,11,1,Fake
+user37,210,600,500,40,TRUE,FALSE,Fitness enthusiast and gym rat,9,0,Original
+user38,270,800,700,50,TRUE,FALSE,Fashion influencer and model,8,1,Original
+user39,120,1000,900,60,TRUE,FALSE,Foodie and amateur chef,13,0,Fake
+user40,180,1200,1100,70,TRUE,FALSE,Photography enthusiast and hobbyist,10,2,Original
+user41,240,300,200,25,TRUE,FALSE,Tech blogger and reviewer,7,0,Original
+user42,90,400,300,30,TRUE,FALSE,Outdoor enthusiast and camper,14,1,Fake
+user43,150,600,500,40,TRUE,TRUE,Nature photographer and wildlife enthusiast,8,0,Original
+user44,210,800,700,50,TRUE,FALSE,Music lover and concert-goer,11,0,Original
+user45,270,1000,900,60,TRUE,FALSE,Fitness coach and personal trainer,9,1,Fake
+user46,120,1200,1100,70,TRUE,FALSE,Fashion designer and stylist,6,0,Original
+user47,180,200,150,20,TRUE,FALSE,Tech enthusiast and coder,12,2,Fake
+user48,240,400,300,30,TRUE,TRUE,Health enthusiast and nutritionist,8,0,Original
+user49,90,600,500,40,TRUE,FALSE,Dog lover and pet owner,11,0,Original
+user50,150,800,700,50,TRUE,FALSE,Musician and songwriter,10,1,Fake
+user51,210,1000,900,60,TRUE,FALSE,Traveler and explorer,7,0,Original
+user52,270,300,200,25,TRUE,FALSE,Coffee addict and blogger,13,3,Fake
+user53,120,400,300,30,TRUE,TRUE,Movie lover and film critic,8,0,Original
+user54,180,600,500,40,TRUE,FALSE,Tech entrepreneur and startup founder,11,1,Fake
+user55,240,800,700,50,TRUE,FALSE,Gamer and esports player,9,0,Original
+user56,90,1000,900,60,TRUE,FALSE,Fitness enthusiast and gym rat,6,0,Original
+user57,150,1200,1100,70,TRUE,FALSE,Fashion influencer and model,15,1,Fake
+user58,210,200,150,20,TRUE,FALSE,Foodie and amateur chef,8,2,Original
+user59,270,300,200,25,TRUE,TRUE,Photography enthusiast and hobbyist,10,2,Original
